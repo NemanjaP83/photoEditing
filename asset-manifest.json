@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/photoEditing/static/css/main.0003858f.chunk.css",
+    "main.js": "/photoEditing/static/js/main.b5cf02bc.chunk.js",
+    "main.js.map": "/photoEditing/static/js/main.b5cf02bc.chunk.js.map",
+    "runtime-main.js": "/photoEditing/static/js/runtime-main.e344e56a.js",
+    "runtime-main.js.map": "/photoEditing/static/js/runtime-main.e344e56a.js.map",
+    "static/css/2.53159467.chunk.css": "/photoEditing/static/css/2.53159467.chunk.css",
+    "static/js/2.6f323661.chunk.js": "/photoEditing/static/js/2.6f323661.chunk.js",
+    "static/js/2.6f323661.chunk.js.map": "/photoEditing/static/js/2.6f323661.chunk.js.map",
+    "index.html": "/photoEditing/index.html",
+    "precache-manifest.9d525bab07ad53bf95e7acba189e1204.js": "/photoEditing/precache-manifest.9d525bab07ad53bf95e7acba189e1204.js",
+    "service-worker.js": "/photoEditing/service-worker.js",
+    "static/css/2.53159467.chunk.css.map": "/photoEditing/static/css/2.53159467.chunk.css.map",
+    "static/css/main.0003858f.chunk.css.map": "/photoEditing/static/css/main.0003858f.chunk.css.map",
+    "static/js/2.6f323661.chunk.js.LICENSE.txt": "/photoEditing/static/js/2.6f323661.chunk.js.LICENSE.txt",
+    "static/media/city.jpg": "/photoEditing/static/media/city.4eee5af7.jpg",
+    "static/media/header.css": "/photoEditing/static/media/man.40ebe3ad.jpg",
+    "static/media/nature.jpg": "/photoEditing/static/media/nature.00a6037e.jpg",
+    "static/media/portrait.jpg": "/photoEditing/static/media/portrait.5490ac66.jpg",
+    "static/media/stars.jpg": "/photoEditing/static/media/stars.fa0fa5d2.jpg",
+    "static/media/street.jpg": "/photoEditing/static/media/street.aba7cf8b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e344e56a.js",
+    "static/css/2.53159467.chunk.css",
+    "static/js/2.6f323661.chunk.js",
+    "static/css/main.0003858f.chunk.css",
+    "static/js/main.b5cf02bc.chunk.js"
+  ]
+}
